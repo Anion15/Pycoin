@@ -117,5 +117,6 @@ print()
 print("총 소지 금액: " + str(돈))
 print("총 소지하고 있는 주식의 개 수 : " + str(지금갖고있는주식) + "개")
 print("pycoin이 종료 되었습니다.")
+#2023/4/13
 print()
 print()
